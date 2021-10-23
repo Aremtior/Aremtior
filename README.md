@@ -1,4 +1,4 @@
-<img src="https://code.org/shared/images/hour-of-code-logo.png">
+<img align="right" src="https://code.org/shared/images/hour-of-code-logo.png">
 
 <h2> Olá! Me chamo Marcos.</h2>
 
@@ -41,7 +41,7 @@
 <br/>
 
 <a href="https://github.com/Aremtior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aremtior&theme=github_dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aremtior&theme=github_dark&show_icons=true&hide=stars" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aremtior&theme=github_dark&layout=compact" />
 </a>
 
