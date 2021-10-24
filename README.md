@@ -1,5 +1,5 @@
 <img align="right" src="https://code.org/shared/images/hour-of-code-logo.png">
-
+<br />
 <h2> Olá! Me chamo Marcos.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
