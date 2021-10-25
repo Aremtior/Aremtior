@@ -41,8 +41,8 @@
 <br/>
 
 <a href="https://github.com/Aremtior">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Aremtior&theme=github_dark&layout=compact&show_icons=true&custom_title=Resumo de Atividades&locale=pt-BR&hide=stars,issues" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aremtior&theme=github_dark&langs_count=4&hide=c%23,html,mustache&locale=pt-BR&layout=compact" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Aremtior&theme=github_dark&layout=compact&show_icons=true&custom_title=Resumo de Atividades&locale=pt-BR&hide=stars,issues" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aremtior&theme=github_dark&langs_count=4&hide=c%23,html,mustache&locale=pt-BR&layout=compact" />
 </a>
 
 <br/>
